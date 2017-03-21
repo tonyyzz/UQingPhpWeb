@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'categoryname', 2 => 'category_order', 3 => 'admin_set', '_pk' => 'id', '_type' => array ( 'id' => 'smallint(5) unsigned', 'categoryname' => 'varchar(30)', 'category_order' => 'smallint(5) unsigned', 'admin_set' => 'tinyint(3) unsigned', ), ); ?>

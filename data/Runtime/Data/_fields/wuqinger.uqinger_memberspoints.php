@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'uid', 2 => 'points', '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'uid' => 'int(10) unsigned', 'points' => 'int(10) unsigned', ), ); ?>

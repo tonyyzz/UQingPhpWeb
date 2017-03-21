@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'uid', 2 => 'jobs_uid', 3 => 'jobsid', 4 => 'addtime', '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'uid' => 'int(10) unsigned', 'jobs_uid' => 'int(10)', 'jobsid' => 'int(10) unsigned', 'addtime' => 'int(10) unsigned', ), ); ?>

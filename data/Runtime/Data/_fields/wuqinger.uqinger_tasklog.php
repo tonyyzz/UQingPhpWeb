@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'uid', 2 => 'taskid', 3 => 'addtime', 4 => 'points', 5 => 'once', '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'uid' => 'int(10) unsigned', 'taskid' => 'int(10) unsigned', 'addtime' => 'int(10) unsigned', 'points' => 'int(10) unsigned', 'once' => 'tinyint(1) unsigned', ), ); ?>

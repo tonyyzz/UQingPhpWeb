@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'id', 1 => 'pid', 2 => 'uid', 3 => 'language', 4 => 'language_cn', 5 => 'level', 6 => 'level_cn', '_pk' => 'id', '_type' => array ( 'id' => 'int(10) unsigned', 'pid' => 'int(10) unsigned', 'uid' => 'int(10) unsigned', 'language' => 'smallint(5)', 'language_cn' => 'varchar(50)', 'level' => 'smallint(5) unsigned', 'level_cn' => 'varchar(50)', ), ); ?>

@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'spmid', 1 => 'spms_usertype', 2 => 'spms_type', 3 => 'message', 4 => 'dateline', '_pk' => 'spmid', '_type' => array ( 'spmid' => 'int(10) unsigned', 'spms_usertype' => 'tinyint(1) unsigned', 'spms_type' => 'tinyint(1)', 'message' => 'varchar(250)', 'dateline' => 'int(10)', ), ); ?>
