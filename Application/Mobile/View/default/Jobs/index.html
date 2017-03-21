@@ -295,7 +295,8 @@
           if (eval(qscms.smsTatus)) {
               window.location.href=qscms.root+'?m=Mobile&c=AjaxPersonal&a=resume_add_dig&jid='+jid;
           } else {
-              window.location.href="{:url_rewrite('QS_login')}";
+              //window.location.href="{:url_rewrite('QS_login')}";
+			  window.location.href='{$jobs.jobs_url}';
           }
       }
     });
