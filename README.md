@@ -1,2 +1,0 @@
-# UQingPhpWeb
-UQing Php Web
